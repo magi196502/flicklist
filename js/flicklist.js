@@ -8,10 +8,21 @@ var model = {
   browseActiveIndex: 0
 }
 
+//https://api.themoviedb.org/3/movie/550?api_key=1d09c918102b9bb9f4b961bff135fdaf
 
+
+// My API = 1d09c918102b9bb9f4b961bff135fdaf
 var api = {
+/*
   root: "https://api.themoviedb.org/3",
   token: "8e888fa39ec243e662e1fb738c42ae99",
+  imageBaseUrl: "http://image.tmdb.org/t/p/"
+
+*/
+
+
+  root: "https://api.themoviedb.org/3",
+  token: "1d09c918102b9bb9f4b961bff135fdaf",
   imageBaseUrl: "http://image.tmdb.org/t/p/"
 }
 
